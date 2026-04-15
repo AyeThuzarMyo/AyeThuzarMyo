@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 
+### 🛠 Tech Stack
+- **Languages:** Java, JavaScript, HTML, CSS
+- **Frameworks:** Spring Boot, React
+- **Tools:** Git, GitHub, Obsidian, Notion
+
 -->
 
 ### 🚀 About Me
@@ -29,11 +34,6 @@ Here are some ideas to get you started:
 - 🎯 **Goal:** Transitioning into a professional Web Developer role.
 - 🍰 **Fun fact:** I’m an experienced baker who loves the precision of both baking and coding.
 - 🤿 **Interests:** Baking, Cooking, Sleeping and Travelling.
-
-### 🛠 Tech Stack
-- **Languages:** Java, JavaScript, HTML, CSS
-- **Frameworks:** Spring Boot, React
-- **Tools:** Git, GitHub, Obsidian, Notion
 
 ### 📫 How to reach me:
 - **LinkedIn:** [linkedin.com/in/chen-meihua](https://www.linkedin.com/in/chen-meihua/)
