@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🌱 **Currently learning:** HTML, CSS, Java, Spring Boot, React, and JavaScript.
 - 🎯 **Goal:** Transitioning into a professional Web Developer role.
 - 🍰 **Fun fact:** I’m an experienced baker who loves the precision of both baking and coding.
-- 🤿 **Interests:** Sleeping and Travelling.
+- 🤿 **Interests:** Cooking, Sleeping and Travelling.
 
 ### 🛠 Tech Stack
 - **Languages:** Java, JavaScript, HTML, CSS
